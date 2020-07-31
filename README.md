@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Java, Microservices, Kubernetes Azure, Istio
 - 🌱 I’m currently learning Raspberry Pi, Serverless and planting.
 - 👯 I’m looking to collaborate on treking in Berlin.
-- 💬 Ask me about Cloud computing, Kubernetes, Java , Python, Linux.
+- 💬 Ask me about Java Microservices, Cloud computing, Kubernetes, Python, Linux.
 - 📫 How to reach me: @chaosguru on twitter
 - ⚡ Fun fact: ...
 --> `ask a developer to count, he starts from zero!`
